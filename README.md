@@ -4,12 +4,13 @@ Kho này **chỉ chứa file cài đặt và bản cập nhật** của ứng d�
 
 **LiveGame** là ứng dụng Windows giúp streamer TikTok LIVE chạy game tương tác với người xem: người xem tham gia bằng bình luận, kết quả hiện ngay trên màn hình livestream.
 
-## Bốn game
+## Năm game
 
 - **Đấu Trí**: quiz A/B/C/D, có điểm thưởng tốc độ.
 - **Đoán Từ Tiếng Anh**: hiện nghĩa tiếng Việt, người xem gõ từ tiếng Anh.
 - **Đám Cưới**: tiệc cưới online, người xem vào tiệc bằng bình luận, từ khóa bật hiệu ứng sân khấu, quà được cô dâu chú rể cảm ơn.
 - **Đoán Chữ**: lớp học giải chữ tiếng Việt với cô giáo, câu vàng, giờ ra chơi và bảng xếp hạng tuần.
+- **Quán Nhậu**: quán vỉa hè vui nhộn cho khán giả người lớn, người xem gõ "bia" để ngồi vào bàn, tặng quà để gọi món, cả quán cùng hô "1, 2, 3... DÔ!". Game chỉ để giải trí, không khuyến khích uống rượu bia thật.
 
 Trang chủ: **https://livegame.vn**
 
